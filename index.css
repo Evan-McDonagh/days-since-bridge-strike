@@ -90,5 +90,5 @@ blockquote.twitter-tweet a:focus {
 }
 
 .background {
-  background-image: "./bridge-strike.webp";
+  background-image: url("bridge-strike.webp");
 }
